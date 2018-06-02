@@ -1,0 +1,2099 @@
+{
+    "instructors": [
+        {
+            "instructor": {
+                "id": "04d25c0c-cd61-4c40-806d-ee3a438ffefb",
+                "login": "MKhrushchev",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "MKhrushchev"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "0597b6cf-d8a9-4ea9-a39b-24c41a2a8f8d",
+                "login": "serge.ns",
+                "first_name": "Сергей",
+                "last_name": "Нестеров",
+                "visible_name": "Сергей Нестеров"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "098f1ba7-4df1-4e2f-afcb-713e1b3740a7",
+                "login": "nr.spiricheva",
+                "first_name": "Наталия",
+                "last_name": "Спиричева",
+                "visible_name": "Наталия Спиричева"
+            },
+            "exercises": [
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 6,
+                    "queue_size": 0,
+                    "comments_count": 1
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "0af5a798-6e20-4620-98b4-2fb6d7375b32",
+                "login": "chiryshev@mail.ru",
+                "first_name": "Андрей",
+                "last_name": "Чирышев",
+                "visible_name": "Андрей Чирышев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 13,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 9,
+                    "queue_size": 0,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "0d556b62-8602-4de9-ab00-245c35081e63",
+                "login": "epeshk",
+                "first_name": "Евгений",
+                "last_name": "Пешков",
+                "visible_name": "Евгений Пешков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "0f94813e-9daa-458a-81ca-3417d6856af1",
+                "login": "ТатьянаМысливчик",
+                "first_name": "Татьяна",
+                "last_name": "Мысливчик",
+                "visible_name": "Татьяна Мысливчик"
+            },
+            "exercises": [
+                {
+                    "slide_id": "43832bca-90f0-4e70-b5d6-4f76658a7ccb",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "4597a6db-5f8e-4bad-a435-8755a3cb61b5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "541ab769-f2be-4764-8fd8-b1dc34deb6fe",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2f97664a-375b-4a60-824f-6227008f822a",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "8e57697e-7361-4543-9bb4-1b24733c0986",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f460a5b6-3f82-4c55-9462-ac3fcf2d1888",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "4f9ae5a0-2be9-4d2b-aa2c-7f99deaabf7a",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "dd1993d4-6600-4368-bc9f-68055ef1eae4",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "789a03b8-d2a6-4860-a340-251cc2413a2a",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "c36456fd-e660-49a2-bac8-5c610a77210b",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f2cd2b9b-cbbe-4b61-92e7-290bc1a602ab",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "b4fba55d-b35d-4366-b3e3-e1d7f53268b1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "74ecaabe-c692-487e-8ff7-b1c38ae497b2",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "5caa9930-a3af-4ba0-9a8e-761bb7cb0ec5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "616826fa-d344-4292-9ab4-ec5c8ea83e1e",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "1039d206-1963-40ab-a8a0-b62fe2f4eb47",
+                "login": "aminopyrodin",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "aminopyrodin"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "13047e43-b0fd-4c9e-82d0-bf8a53b78ec6",
+                "login": "a.tarasiev",
+                "first_name": "Андрей",
+                "last_name": "Тарасьев",
+                "visible_name": "Андрей Тарасьев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "14d0776d-7df7-41c1-991c-11e2354d6ecf",
+                "login": "lakhtin",
+                "first_name": "Алексей",
+                "last_name": "Лахтин",
+                "visible_name": "Алексей Лахтин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "164b0068-3252-47ca-acd4-8eee2de14b73",
+                "login": "Rust1k",
+                "first_name": "Рустем",
+                "last_name": "Салимов",
+                "visible_name": "Рустем Салимов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "17803ad3-0803-4a3a-9ef8-d89833df465a",
+                "login": "yury.pliner@gmail.com",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "yury.pliner@gmail.com"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "1f83c113-30a2-4f39-b6bf-994223973c74",
+                "login": "danilov_dmitry",
+                "first_name": "Дмитрий",
+                "last_name": "Данилов",
+                "visible_name": "Дмитрий Данилов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "233ba00a-ed95-4eca-983d-3f76afa24212",
+                "login": "АлександрСорокин",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "АлександрСорокин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "23a4345d-0fc8-42bd-8ead-e4fbdf71f9ea",
+                "login": "ermakov@skbkontur.ru",
+                "first_name": "Алексей Александрович",
+                "last_name": "Ермаков",
+                "visible_name": "Алексей Александрович Ермаков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "251ff82d-3368-4e16-b3e0-6b0a3dfc670f",
+                "login": "NikitosBobin",
+                "first_name": "Никита",
+                "last_name": "Бобин",
+                "visible_name": "Никита Бобин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "26cec834-5d07-44f1-abf8-b302547bf436",
+                "login": "Vladislav.Lyuminarskiy",
+                "first_name": "Владислав",
+                "last_name": "Люминарский",
+                "visible_name": "Владислав Люминарский"
+            },
+            "exercises": [
+                {
+                    "slide_id": "f9dd2a00-cc48-42d7-914a-813e3f9847e0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2088e9aa-8fdd-4df3-b190-d57bb2390dfd",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "40d232f1-c280-44cd-83f7-7ec526407d62",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "29d0e22e-e60b-4a88-ab48-ec9e68c71847",
+                "login": "АнтонМастраков",
+                "first_name": "Антон",
+                "last_name": "Мастраков",
+                "visible_name": "Антон Мастраков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "2a2175e1-fc16-4cee-ac4f-b377e864f10d",
+                "login": "PhonkX",
+                "first_name": "Станислав",
+                "last_name": "Иванаев",
+                "visible_name": "Станислав Иванаев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "2bdf6587-eac0-4411-ae96-9c8ba1564c1a",
+                "login": "Елена Кужбанова",
+                "first_name": "Елена ",
+                "last_name": "Кужбанова",
+                "visible_name": "Елена  Кужбанова"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "eb894d4d-5854-4684-898b-5480895685e5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f68587ec-e031-486d-9fe6-57f3dfc8f7e6",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "2ea9d297-585d-4085-bc15-dbfd7c9bed71",
+                "login": "Asakyra",
+                "first_name": "Евгений",
+                "last_name": "Аляксин",
+                "visible_name": "Евгений Аляксин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "328a54cb-bd79-4786-8880-4e39151a2771",
+                "login": "nsvetova",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "nsvetova"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "33f74a95-3fef-4973-badf-2ba6d7f53323",
+                "login": "katranchic",
+                "first_name": "Даша",
+                "last_name": "Свалова",
+                "visible_name": "Даша Свалова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "36159736-1507-42a6-bde2-2dae0d6f28af",
+                "login": "XATTAB",
+                "first_name": "Юрий",
+                "last_name": "Дмитрин",
+                "visible_name": "Юрий Дмитрин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "36d7c9f2-898e-418a-9401-bb0133210779",
+                "login": "Ksenia S",
+                "first_name": "Ксения",
+                "last_name": "Шамсутдинова",
+                "visible_name": "Ксения Шамсутдинова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "3b2e2928-83f5-4d8f-87ca-3ea24c792499",
+                "login": "tokmancev@mail.ru",
+                "first_name": "Timofey",
+                "last_name": "Tokmantsev",
+                "visible_name": "Timofey Tokmantsev"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "3f34572d-caf0-4f15-99ae-7f0119b3d5f0",
+                "login": "askazakov",
+                "first_name": "Анатолий",
+                "last_name": "Казаков",
+                "visible_name": "Анатолий Казаков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "3f9d82cf-ae13-488c-a401-4c392c1085ba",
+                "login": "Олег Питковский",
+                "first_name": "Олег",
+                "last_name": "Питковский",
+                "visible_name": "Олег Питковский"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "42bde2b3-38c4-4a12-ac91-00777bc5e252",
+                "login": "IljaGvozdarev",
+                "first_name": "Илья",
+                "last_name": "Гвоздарев",
+                "visible_name": "Илья Гвоздарев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "4601c7eb-b5d1-4746-8aa3-b7f476933820",
+                "login": "smirnova_elena",
+                "first_name": "Елена",
+                "last_name": "Смирнова",
+                "visible_name": "Елена Смирнова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "46a7fd98-ac5b-4ee0-9b7d-8f2998c70d44",
+                "login": "Sergey Privalov",
+                "first_name": "Сергей",
+                "last_name": "Привалов",
+                "visible_name": "Сергей Привалов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "4eedc770-cb36-4876-b709-8e50a15fd82f",
+                "login": "Александр Николаевич Пушкарев",
+                "first_name": "Александр",
+                "last_name": "Пушкарев",
+                "visible_name": "Александр Пушкарев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "1da7338b-910e-45af-9648-dcf615bf2f1c",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "617d8f67-491f-4172-8ed4-e7c230c2120f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e5f12764-5945-41d7-a02f-7664d422d600",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f9dd2a00-cc48-42d7-914a-813e3f9847e0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "eb894d4d-5854-4684-898b-5480895685e5",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f68587ec-e031-486d-9fe6-57f3dfc8f7e6",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e5beecc5-2b45-4271-acdc-3ae0af775485",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "43832bca-90f0-4e70-b5d6-4f76658a7ccb",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "4597a6db-5f8e-4bad-a435-8755a3cb61b5",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "541ab769-f2be-4764-8fd8-b1dc34deb6fe",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d6ccce43-dcb5-4a64-9f65-e55de20582f8",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a0c554bb-1bb2-451e-b192-c88c87ec5147",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 2,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2f97664a-375b-4a60-824f-6227008f822a",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "8e57697e-7361-4543-9bb4-1b24733c0986",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "4faa788e-5998-499f-9483-63391a94965e",
+                "login": "krestnikova@gmail.com",
+                "first_name": "Ольга",
+                "last_name": " Крестникова",
+                "visible_name": "Ольга  Крестникова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "51702434-26bd-4b3f-89da-79cc9e5df568",
+                "login": "BeetleEda",
+                "first_name": "Дарья",
+                "last_name": "Евдокимова",
+                "visible_name": "Дарья Евдокимова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "51b0b508-219d-4659-a82e-02429efff6b4",
+                "login": "StriderAJR",
+                "first_name": "Alex",
+                "last_name": "Kirsanov",
+                "visible_name": "Alex Kirsanov"
+            },
+            "exercises": [
+                {
+                    "slide_id": "1da7338b-910e-45af-9648-dcf615bf2f1c",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "617d8f67-491f-4172-8ed4-e7c230c2120f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e5f12764-5945-41d7-a02f-7664d422d600",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "616826fa-d344-4292-9ab4-ec5c8ea83e1e",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 5,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "3de364ff-38e9-411e-ac97-b4e4d24cdf26",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 5,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d91838bd-0b73-4da5-81ec-39ff935ced35",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 3,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "8e0ccef8-59a4-4bf1-8610-8351c487a339",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 6,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "547caa1f-70ee-4854-85ef-4d2e9ab77b60",
+                "login": "АнтонФедоров",
+                "first_name": "Антон",
+                "last_name": "Федоров",
+                "visible_name": "Антон Федоров"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "5510383a-bb0d-4743-8360-2bfe140cd1ea",
+                "login": "semenikhinapn",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "semenikhinapn"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "5798d501-6196-40c4-bc75-ee3a3efbed19",
+                "login": "rudnevvladimir",
+                "first_name": "Vladimir",
+                "last_name": "Rudnev",
+                "visible_name": "Vladimir Rudnev"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "5c11a222-abac-439f-954d-b75112e8c2fc",
+                "login": "Test_it",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "Test_it"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "6345998a-4250-49f8-9fc4-dcbd24a6c0fd",
+                "login": "jklen",
+                "first_name": "Юлий",
+                "last_name": "Кленин",
+                "visible_name": "Юлий Кленин"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 6,
+                    "queue_size": 0,
+                    "comments_count": 4
+                },
+                {
+                    "slide_id": "1da7338b-910e-45af-9648-dcf615bf2f1c",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 8
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 3
+                },
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 5,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 10,
+                    "queue_size": 0,
+                    "comments_count": 7
+                },
+                {
+                    "slide_id": "617d8f67-491f-4172-8ed4-e7c230c2120f",
+                    "reviewed_submissions_count": 8,
+                    "queue_size": 0,
+                    "comments_count": 6
+                },
+                {
+                    "slide_id": "e5f12764-5945-41d7-a02f-7664d422d600",
+                    "reviewed_submissions_count": 9,
+                    "queue_size": 0,
+                    "comments_count": 10
+                },
+                {
+                    "slide_id": "f9dd2a00-cc48-42d7-914a-813e3f9847e0",
+                    "reviewed_submissions_count": 9,
+                    "queue_size": 0,
+                    "comments_count": 10
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "eb894d4d-5854-4684-898b-5480895685e5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "f68587ec-e031-486d-9fe6-57f3dfc8f7e6",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e5beecc5-2b45-4271-acdc-3ae0af775485",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "43832bca-90f0-4e70-b5d6-4f76658a7ccb",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "4597a6db-5f8e-4bad-a435-8755a3cb61b5",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 4
+                },
+                {
+                    "slide_id": "541ab769-f2be-4764-8fd8-b1dc34deb6fe",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "d6ccce43-dcb5-4a64-9f65-e55de20582f8",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "a0c554bb-1bb2-451e-b192-c88c87ec5147",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "2f97664a-375b-4a60-824f-6227008f822a",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "8e57697e-7361-4543-9bb4-1b24733c0986",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "8ad29ee0-cff1-45db-8405-10f203556d1b",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 4
+                },
+                {
+                    "slide_id": "f460a5b6-3f82-4c55-9462-ac3fcf2d1888",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "4f9ae5a0-2be9-4d2b-aa2c-7f99deaabf7a",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "dd1993d4-6600-4368-bc9f-68055ef1eae4",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "2088e9aa-8fdd-4df3-b190-d57bb2390dfd",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "789a03b8-d2a6-4860-a340-251cc2413a2a",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "c36456fd-e660-49a2-bac8-5c610a77210b",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "b4fba55d-b35d-4366-b3e3-e1d7f53268b1",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "27e64369-9fb5-4d39-8db1-248b6257293e",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "92931100-7a4c-48ce-bb88-bc7820fc703c",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "74ecaabe-c692-487e-8ff7-b1c38ae497b2",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "40d232f1-c280-44cd-83f7-7ec526407d62",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "5caa9930-a3af-4ba0-9a8e-761bb7cb0ec5",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "616826fa-d344-4292-9ab4-ec5c8ea83e1e",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 0,
+                    "comments_count": 5
+                },
+                {
+                    "slide_id": "3de364ff-38e9-411e-ac97-b4e4d24cdf26",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d91838bd-0b73-4da5-81ec-39ff935ced35",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "8e0ccef8-59a4-4bf1-8610-8351c487a339",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 3
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "63ff25c3-8a56-43c3-b9fc-75d25785a5ba",
+                "login": "suslov_yura",
+                "first_name": "Суслов",
+                "last_name": "Юрий",
+                "visible_name": "Суслов Юрий"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "6412e42d-8828-4012-b67d-e68acb7c6a45",
+                "login": "SvalovaNastya",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "SvalovaNastya"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "66dfa706-ebc8-4a10-843d-1f7d3b2b4416",
+                "login": "fabiograzioso",
+                "first_name": "Fabio",
+                "last_name": "Grazioso",
+                "visible_name": "Fabio Grazioso"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "6870c43b-3d33-4e42-a071-c32e62895669",
+                "login": "aisek",
+                "first_name": "Даниил",
+                "last_name": "Айзенштейн",
+                "visible_name": "Даниил Айзенштейн"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "718147bb-5707-45e6-a5c5-48a079c8ba81",
+                "login": "voronov",
+                "first_name": "Роман",
+                "last_name": "Воронов",
+                "visible_name": "Роман Воронов"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "77de61eb-d7a5-4006-b771-daaffbb17dee",
+                "login": "roman.buldygin",
+                "first_name": "Роман",
+                "last_name": "Булдыгин",
+                "visible_name": "Роман Булдыгин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "785887e3-b73e-4256-a284-cd373cc5e936",
+                "login": "izag",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "izag"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "79eadedf-48c7-4b8a-89d9-9c900bff9864",
+                "login": "alexey.zverev",
+                "first_name": "Алексей",
+                "last_name": "Зверев",
+                "visible_name": "Алексей Зверев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "79f78d5d-4336-4cfe-ae8f-49c42a96dd35",
+                "login": "ezsilmar",
+                "first_name": "Евгений",
+                "last_name": "Жиров",
+                "visible_name": "Евгений Жиров"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "7f5296c4-ff73-4f71-a287-ae8668b5e387",
+                "login": "lissa915",
+                "first_name": "Алина",
+                "last_name": "Смирнова",
+                "visible_name": "Алина Смирнова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "80b1fc60-e113-4ce3-bf1d-b25cf5fdd059",
+                "login": "yoyoyo",
+                "first_name": "Кирилл",
+                "last_name": "Иванов",
+                "visible_name": "Кирилл Иванов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "82ee7467-d59a-4563-b67d-8ce38d3ebe34",
+                "login": "Екатерина Воронова",
+                "first_name": "Екатерина",
+                "last_name": "Воронова",
+                "visible_name": "Екатерина Воронова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "84ce5313-e3ea-4756-85ef-e42cfb06c7b2",
+                "login": "Alfred.Khayroullin",
+                "first_name": "Альфред",
+                "last_name": "Хайруллин",
+                "visible_name": "Альфред Хайруллин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "8b6acfe4-7b13-4b09-91fe-4dc4bd18e867",
+                "login": "Verderian",
+                "first_name": "Игорь",
+                "last_name": "Дмитриев",
+                "visible_name": "Игорь Дмитриев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 2
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "8e89ee46-53b9-4a66-a97d-df0754dba77f",
+                "login": "Ольга Жукова",
+                "first_name": "Ольга",
+                "last_name": "Жукова",
+                "visible_name": "Ольга Жукова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "92e9e255-f640-4e20-9209-70fdea325ae8",
+                "login": "pp_blond",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "pp_blond"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "986ce69b-7a81-4b7f-bcca-0c957b582951",
+                "login": "vskosmatov",
+                "first_name": "Максим",
+                "last_name": "Васючков",
+                "visible_name": "Максим Васючков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "9c9529ec-6466-489f-8e4b-35cf9aeb3362",
+                "login": "byTimo",
+                "first_name": "Андрей",
+                "last_name": "Кондратьев",
+                "visible_name": "Андрей Кондратьев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 9,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 9,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 9
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "9cd97ac8-4623-4fa3-a482-d89aca626401",
+                "login": "amantix",
+                "first_name": "Антон",
+                "last_name": "Марченко",
+                "visible_name": "Антон Марченко"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a221b24b-8984-4302-afe5-f2b0f33c21ee",
+                "login": "dolgov_vv",
+                "first_name": "Василий",
+                "last_name": "Долгов",
+                "visible_name": "Василий Долгов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a27f8229-1d2d-4953-b4e2-b2a78af9da71",
+                "login": "edegtyarev",
+                "first_name": "Евгений",
+                "last_name": "Дегтярев",
+                "visible_name": "Евгений Дегтярев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 9
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "a2f03b16-6531-46e3-98e7-f26e9fe1682c",
+                "login": "okulovsky",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "okulovsky"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a383df78-85d3-4fbd-9fe8-d81c942d4a45",
+                "login": "maBna",
+                "first_name": "Денис",
+                "last_name": "Акимов",
+                "visible_name": "Денис Акимов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a43ca20e-81c5-4699-803f-d4c78e6c0e44",
+                "login": "katty_zee",
+                "first_name": "Екатерина",
+                "last_name": "Зеленина",
+                "visible_name": "Екатерина Зеленина"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a6ba6f3c-848a-4b7e-af92-b119007078c9",
+                "login": "anaym",
+                "first_name": "Anton",
+                "last_name": "Tolstov",
+                "visible_name": "Anton Tolstov"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "a7fab389-8239-4fba-aea4-812efe2e18cc",
+                "login": "shkarin",
+                "first_name": "Павел",
+                "last_name": "Шкарин",
+                "visible_name": "Павел Шкарин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "ae7a0a86-231a-4e26-bf1a-9e659c078d9a",
+                "login": "GorodilovAY",
+                "first_name": "Алексей",
+                "last_name": "Городилов",
+                "visible_name": "Алексей Городилов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "af2ae1a9-36ba-4655-bf39-f40c4abcdd5b",
+                "login": "sergey.kazakov",
+                "first_name": "Сергей",
+                "last_name": "Казаков",
+                "visible_name": "Сергей Казаков"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "af8aca3e-2675-4044-91d7-d6019e14bc65",
+                "login": "alexandrovpe@gmail.com",
+                "first_name": "Павел",
+                "last_name": "Александров",
+                "visible_name": "Павел Александров"
+            },
+            "exercises": [
+                {
+                    "slide_id": "f9dd2a00-cc48-42d7-914a-813e3f9847e0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2088e9aa-8fdd-4df3-b190-d57bb2390dfd",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "40d232f1-c280-44cd-83f7-7ec526407d62",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "b456ddb4-7662-41cc-b153-f0cec74b2ced",
+                "login": "annaglazkova",
+                "first_name": "Анна",
+                "last_name": "Глазкова",
+                "visible_name": "Анна Глазкова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "b54048cf-1e26-4ab8-96db-631b1ae1ef85",
+                "login": "Genraim",
+                "first_name": "Алексей",
+                "last_name": "Егармин",
+                "visible_name": "Алексей Егармин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "b98771e3-bfde-4df0-a96f-d21a0011114d",
+                "login": "epicpumpkin",
+                "first_name": "Павел",
+                "last_name": "Трофимов",
+                "visible_name": "Павел Трофимов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "bc836693-6a60-4774-9edd-ccf8c8c6f76e",
+                "login": "Sirius37",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "Sirius37"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "c2c850b9-b593-4d1d-aa2b-47ff091442cd",
+                "login": "pteacher",
+                "first_name": "Руслан",
+                "last_name": "Исаев",
+                "visible_name": "Руслан Исаев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "c32e063b-644f-4721-80b5-c67b3c79d9fa",
+                "login": "ОльгаПерескокова",
+                "first_name": "Ольга",
+                "last_name": "Перескокова",
+                "visible_name": "Ольга Перескокова"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "c37e9481-a513-4146-830f-e4e6c1b5da12",
+                "login": "amihabers",
+                "first_name": "Михаил",
+                "last_name": "Амиров",
+                "visible_name": "Михаил Амиров"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "c50f1a72-b45c-4e3e-8071-7a9a21136c2a",
+                "login": "Sandro",
+                "first_name": "Александр",
+                "last_name": "Ипатов",
+                "visible_name": "Александр Ипатов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "ccb3466b-ba92-43d4-9b7e-56474f60ba75",
+                "login": " RybinskayaElena",
+                "first_name": "Елена",
+                "last_name": "Рыбинская ",
+                "visible_name": "Елена Рыбинская"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "d295148c-499d-4f85-a45f-d04cf1d571c9",
+                "login": "aklepinin",
+                "first_name": "Александр",
+                "last_name": "Клепинин",
+                "visible_name": "Александр Клепинин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "d6f70e58-9382-4d6e-97fb-d34639de3896",
+                "login": "silkinans",
+                "first_name": "Надежда",
+                "last_name": "Силкина",
+                "visible_name": "Надежда Силкина"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 15,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 14,
+                    "queue_size": 1,
+                    "comments_count": 3
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 5,
+                    "queue_size": 4,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 3,
+                    "queue_size": 6,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "1da7338b-910e-45af-9648-dcf615bf2f1c",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 3,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "617d8f67-491f-4172-8ed4-e7c230c2120f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "d8ba6612-3ab3-482b-a966-cbad44ab95c8",
+                "login": "yurii.litvinov",
+                "first_name": "Юрий",
+                "last_name": "Литвинов",
+                "visible_name": "Юрий Литвинов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "dad14bf6-6d03-49c0-ae67-3ed298194b55",
+                "login": "disturm",
+                "first_name": "Иван",
+                "last_name": "Домашних",
+                "visible_name": "Иван Домашних"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 11,
+                    "queue_size": 1,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "eb894d4d-5854-4684-898b-5480895685e5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 5
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "dc2cc3ee-88c1-43bc-ad6d-ff1ff503008b",
+                "login": "kor-and",
+                "first_name": "Андрей",
+                "last_name": "Корепанов",
+                "visible_name": "Андрей Корепанов"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "f9dd2a00-cc48-42d7-914a-813e3f9847e0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "56c09b9b-5eec-4491-bf86-ae5074fbd28f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2088e9aa-8fdd-4df3-b190-d57bb2390dfd",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "40d232f1-c280-44cd-83f7-7ec526407d62",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "dc86b6a0-a039-4bac-8b86-c3cb832c14a1",
+                "login": "Viktor.Vakhrushev",
+                "first_name": "Виктор",
+                "last_name": "Вахрушев",
+                "visible_name": "Виктор Вахрушев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "dca08137-7b3a-4bd3-b42d-bc1766e88e90",
+                "login": "johneg1",
+                "first_name": "Евгений",
+                "last_name": "Клюкин",
+                "visible_name": "Евгений Клюкин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "de00e7e9-fce8-495f-afc0-9d209f2af243",
+                "login": "besedinki",
+                "first_name": "Константин",
+                "last_name": "Беседин",
+                "visible_name": "Константин Беседин"
+            },
+            "exercises": [
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 4,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 6,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "1da7338b-910e-45af-9648-dcf615bf2f1c",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 3,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "617d8f67-491f-4172-8ed4-e7c230c2120f",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "e0fcf1f7-1ca8-4876-a594-b22aba3481c6",
+                "login": "Vadimyan",
+                "first_name": "Вадим",
+                "last_name": "Мартынов",
+                "visible_name": "Вадим Мартынов"
+            },
+            "exercises": [
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 4
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 2
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "e1485646-bcd8-4a15-a2cc-953e2bba8a86",
+                "login": "morgan_kn",
+                "first_name": "Ирина",
+                "last_name": "Ананьева",
+                "visible_name": "Ирина Ананьева"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "e5015ac9-c4bf-4ca8-baa2-a90c1af077d2",
+                "login": "lapin",
+                "first_name": "Андрей",
+                "last_name": "Лапин",
+                "visible_name": "Андрей Лапин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "e6a82a82-c5e1-4c1d-bfee-df76dfa55074",
+                "login": "Levchuk",
+                "first_name": "Георгий",
+                "last_name": "Левчук",
+                "visible_name": "Георгий Левчук"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "e782d023-10be-4337-a84a-e79975cf8a4b",
+                "login": "ebalukova",
+                "first_name": "",
+                "last_name": "",
+                "visible_name": "ebalukova"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "e8284f2a-7f0d-496c-b4e7-62fc0e099f3e",
+                "login": "andrew.sboev",
+                "first_name": "Андрей",
+                "last_name": "Сбоев",
+                "visible_name": "Андрей Сбоев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "f105cca4-2fe6-4842-9894-028c9c6b10b5",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "da80ee9b-a2f1-4648-87c2-1a8170561bf0",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 3
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 5
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 12,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 11,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 9
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "ead830b7-e51f-492c-8c4c-b7fe7200da44",
+                "login": "iurii.chiryshev",
+                "first_name": "Юрий",
+                "last_name": "Чирышев",
+                "visible_name": "Юрий Чирышев"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "e191b760-98cd-4d54-981a-971f0b4e319d",
+                    "reviewed_submissions_count": 0,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 1,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 1,
+                    "comments_count": 0
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "ecaa9095-ea88-4e7b-bc7d-a9cbb01d9510",
+                "login": "dmbotov@gmail.com",
+                "first_name": "Дмитрий",
+                "last_name": "Ботов",
+                "visible_name": "Дмитрий Ботов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "ecb1a90e-9024-4941-8d76-da5e920e335c",
+                "login": "pe",
+                "first_name": "Павел",
+                "last_name": "Егоров",
+                "visible_name": "Павел Егоров"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "ed22878d-5dfa-4bfd-8547-a1e05712363e",
+                "login": "dstarasov",
+                "first_name": "Денис",
+                "last_name": "Тарасов",
+                "visible_name": "Денис Тарасов"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "eda45ad6-82cd-475f-beb9-4b40b186a45a",
+                "login": "m.p.dolgih",
+                "first_name": "Мария",
+                "last_name": "Долгих",
+                "visible_name": "Мария Долгих"
+            },
+            "exercises": [
+                {
+                    "slide_id": "9fdf2523-85d0-4180-8ef5-88ab8d6b21ff",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "6cc09002-9973-4328-a31b-c7343f8c6b5d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "2657d334-82d7-460f-a5e5-5910ce95372e",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "a7b3118a-cb3d-4715-b03a-a31a7c3ea9ec",
+                    "reviewed_submissions_count": 4,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "eb894d4d-5854-4684-898b-5480895685e5",
+                    "reviewed_submissions_count": 2,
+                    "queue_size": 0,
+                    "comments_count": 2
+                },
+                {
+                    "slide_id": "f68587ec-e031-486d-9fe6-57f3dfc8f7e6",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 1
+                },
+                {
+                    "slide_id": "e6b85bbf-1dbf-4099-84db-906579169b8d",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 1
+                }
+            ]
+        },
+        {
+            "instructor": {
+                "id": "f07831bb-becf-4400-a58f-fde57473b28f",
+                "login": "EugenDev",
+                "first_name": "Евгений",
+                "last_name": "Дергачёв",
+                "visible_name": "Евгений Дергачёв"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "f8386c39-84a0-4d2c-b3d7-ba4ed293f93f",
+                "login": "birne",
+                "first_name": "Паша",
+                "last_name": "Агеев",
+                "visible_name": "Паша Агеев"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "f90e20a0-5f40-4edc-93c5-593a23c0475f",
+                "login": "IvanSorokinFed",
+                "first_name": "Иван",
+                "last_name": "Сорокин",
+                "visible_name": "Иван Сорокин"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "f9bbbf91-67cd-4174-bbc1-1fb328fb27f1",
+                "login": "kir.melnikov",
+                "first_name": "Кирилл",
+                "last_name": "Мельников",
+                "visible_name": "Кирилл Мельников"
+            },
+            "exercises": []
+        },
+        {
+            "instructor": {
+                "id": "fe85ef87-3832-4bfe-ad72-ca8066927795",
+                "login": "Ramil_Matfak",
+                "first_name": "Рамиль",
+                "last_name": "Мухаметзянов",
+                "visible_name": "Рамиль Мухаметзянов"
+            },
+            "exercises": [
+                {
+                    "slide_id": "6dd79ed2-2d6e-487f-88dc-7414a15600fa",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "68c9791d-1d2e-4463-b105-2da501c12949",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                },
+                {
+                    "slide_id": "d41a27ad-a377-4fbd-ba1c-1bd761c69dd1",
+                    "reviewed_submissions_count": 1,
+                    "queue_size": 0,
+                    "comments_count": 0
+                }
+            ]
+        }
+    ],
+    "analyzed_code_reviews_count": 442
+}
